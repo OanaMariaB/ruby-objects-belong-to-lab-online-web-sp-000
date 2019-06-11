@@ -1,3 +1,3 @@
-class Sond
-  attr_accessor :artist
+class Song
+  attr_accessor :title, :artist
 end
